@@ -1,305 +1,124 @@
-@@ -62,4 +62,9 @@ Here are some ideas to get you started:
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
--->
+<h1 style="text-align: center;margin-bottom: 5px;">Hi, I'm Marcelo Garbin<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
+<h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Full stack web developer, Laravel, Vue.js and all the technology behind it...</h3>
 
------
-Credits: [ABSphreak](https://github.com/ABSphreak)
-
-Last Edited on: 30/08/2020
-  3 changes: 2 additions & 1 deletion3  
-AlexMartinFR.md
-@@ -24,5 +24,6 @@ Colors and words are the runes of our Modern World. When wielded carefully, thei
-- 🐦 Reach me on [ Twitter ](https://twitter.com/alexmartinfr)
-
------
-Credits: [AlexMartinFR](https://github.com/AlexMartinFR))
-Credits: [AlexMartinFR](https://github.com/AlexMartinFR)
-
-Last Edited on: 30/08/2020
-  7 changes: 6 additions & 1 deletion7  
-ChungZH.md
-@@ -15,4 +15,9 @@
-![ChungZH's github stats](https://github-readme-stats.vercel.app/api?username=ChungZH&theme=gruvbox&show_icons=true)
+<ul style="list-style: none;">
+<li>:seedling: I'm in constant learning (currently Inertia.js with Laravel 8 / Nuxt / Tailwind CSS)</li>
+<li>:octocat: I’m looking to collaborate projects that make use of <strong>PHP, JavaScript, HTML, CSS, Translations</strong></li>
+<li>:brazil: From Rio Grande do Sul, Rodeio Bonito, Brazil</li>
+<li>:rocket: I'm looking for new projects and work opportunities</li>
+<li>:metal: Let's Rock n' Roll and Code, baby.</li>
+</ul>
+<div align="center">
+<h3>Contact Me :handshake:</h3>
+<a href="https://github.com/garbinmarcelo" target="_blank"><img src="https://img.shields.io/badge/-Marcelo_Garbin-black?logo=github&style=flat-square" alt="github"/></a>
+<a href="https://www.linkedin.com/in/garbinmarcelo" target="_blank"><img src="https://img.shields.io/badge/-Marcelo_Garbin-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
+<a href="https://www.instagram.com/garbinmarcelo" target="_blank"><img src="https://img.shields.io/badge/-Marcelo_Garbin-pink?logo=instagram&textColor=white&style=flat-square" alt="instagram"/></a>
+<a href="https://twitter.com/marcelo_garbin" target="_blank"><img src="https://img.shields.io/badge/-marcelo__garbin-blue?logo=twitter&logoColor=white&style=flat-square" alt="twitter"/></a>
+<a href="mailto:marcelo@garbin.dev"><img src="https://img.shields.io/badge/-marcelo@garbin.dev-white?logo=thunderbird&style=flat-square" alt="twitter"/></a>
+<br/><br/>
+<a href="https://www.buymeacoffee.com/garbinmarcelo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a>
+</div>
 
 
-###### 💾 EOF
-###### 💾 EOF
+---
 
------
-Credits: [ChungZH](https://github.com/ChungZH)
+<div align="center">
+<h2>Knowledge Base :hammer_and_wrench:</h2>
 
-Last Edited on: 30/08/2020
-  7 changes: 6 additions & 1 deletion7  
-CyrisXD.md
-@@ -13,4 +13,9 @@ Here are some ideas to get you started:
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
--->
+<h3>Back-end & Front-end</h3>
 
------
-Credits: [CyrisXD](https://github.com/CyrisXD)
+<a href="https://php.net" target="_blank"><img src="https://img.shields.io/badge/PHP-white.svg?style=for-the-badge&logo=php&logoColor=777BB4" alt="php"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-white.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" alt="javascript"/></a>
 
-Last Edited on: 30/08/2020
-  7 changes: 6 additions & 1 deletion7  
-DennisHartrampf.md
-@@ -25,4 +25,9 @@ Do you like my profile and want to build your own? It's very simple. GitHub rece
-1. Add a `README.md` to this repository.
-1. Put some cool content about yourself (or anything you want) into `README.md`.
+<a href="https://laravel.com" target="_blank"><img src="https://img.shields.io/badge/Laravel-white.svg?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="laravel"/></a>
+<a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/-Vue.js-white?logo=vuedotjs&style=for-the-badge" alt="vuejs"/></a>
+<a href="https://nuxtjs.org/" target="_blank"><img src="https://img.shields.io/badge/-Nuxt.js*-white?logo=nuxtdotjs&logoColor=00DC82&style=for-the-badge" alt="nuxtjs"/></a>
+<a href="https://inertiajs.com/" target="_blank"><img src="https://img.shields.io/badge/-Inertia.js*-white?logo=inertiadotjs&logoColor=00DC82&style=for-the-badge" alt="inertiadotjs"/></a>
 
-And that's about it. The `README.md` of your profile readme repository will be displayed on your profile page. If you need inspiration, you can check out [this repository](https://github.com/abhisheknaiidu/awesome-github-profile-readme) which contains a curated list of nice profile readme repositories.
-And that's about it. The `README.md` of your profile readme repository will be displayed on your profile page. If you need inspiration, you can check out [this repository](https://github.com/abhisheknaiidu/awesome-github-profile-readme) which contains a curated list of nice profile readme repositories.
+<a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/-Bootstrap-white?logo=bootstrap&logoColor=7952B3&style=for-the-badge" alt="bootstrap"/></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/-tailwind css*-white?logo=tailwindcss&logoColor=06B6D4&style=for-the-badge" alt="tailwindcss"/></a>
+<a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://img.shields.io/badge/-HTML-white?logo=html5&style=for-the-badge" alt="html5"/></a>
+<a href="https://www.w3.org/Style/CSS" target="_blank"><img src="https://img.shields.io/badge/-CSS-white?logo=css3&logoColor=1572B6&style=for-the-badge" alt="css3"/></a>
+<a href="https://jquery.com/" target="_blank"><img src="https://img.shields.io/badge/-jquery-white?logo=jquery&logoColor=0769AD&style=for-the-badge" alt="jquery"/></a>
 
------
-Credits: [DennisHartrampf](https://github.com/DennisHartrampf)
 
-Last Edited on: 30/08/2020
- 7 changes: 6 additions & 1 deletion7  
-MasonSlover.md
-@@ -1 +1,6 @@
-<img src="https://github.com/MasonSlover/MasonSlover/blob/master/output.gif" alt="Here is a little bit about me!">
-<img src="https://github.com/MasonSlover/MasonSlover/blob/master/output.gif" alt="Here is a little bit about me!">
+<a href="https://getcomposer.org/" target="_blank"><img src="https://img.shields.io/badge/-composer-white?logo=composer&logoColor=885630&style=for-the-badge" alt="composer"/></a>
+<a href="https://webpack.js.org/" target="_blank"><img src="https://img.shields.io/badge/-webpack-white?logo=webpack&logoColor=8DD6F9&style=for-the-badge" alt="webpack"/></a>
+<a href="https://gulpjs.com/" target="_blank"><img src="https://img.shields.io/badge/-gulp-white?logo=gulp&logoColor=CF4647&style=for-the-badge" alt="gulp"/></a>
+<a href="https://www.npmjs.com/" target="_blank"><img src="https://img.shields.io/badge/-npm-white?logo=npm&logoColor=CB3837&style=for-the-badge" alt="npm"/></a>
+<a href="https://yarnpkg.com/" target="_blank"><img src="https://img.shields.io/badge/-yarn-white?logo=yarn&logoColor=2C8EBB&style=for-the-badge" alt="yarn"/></a>
 
------
-Credits: [MasonSlover](https://github.com/MasonSlover)
+<a href="https://wordpress.com/" target="_blank"><img src="https://img.shields.io/badge/-wordpress-white?logo=wordpress&logoColor=21759B&style=for-the-badge" alt="wordpress"/></a>
+<a href="https://www.opencart.com/" target="_blank"><img src="https://img.shields.io/badge/-opencart-white?logo=opencart&logoColor=21759B&style=for-the-badge" alt="opencart"/></a>
+<a href="https://www.algolia.com/" target="_blank"><img src="https://img.shields.io/badge/-algolia*-white?logo=algolia&logoColor=5468FF&style=for-the-badge" alt="algolia"/></a>
 
-Last Edited on: 30/08/2020
-  3 changes: 3 additions & 0 deletions3  
-abhisheknaiidu.md
-@@ -68,4 +68,7 @@ Git Config   36 mins         █░░░░░░░░░░░░░░░░
+<h3>Database</h3>
 
-</details>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/-postgresql-white?logo=postgresql&logoColor=4169E1&style=for-the-badge" alt="postgresql"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/-mysql-white?logo=mysql&logoColor=4479A1&style=for-the-badge" alt="mysql"/></a>
+<a href="https://mariadb.org/" target="_blank"><img src="https://img.shields.io/badge/-mariadb-white?logo=mariadb&logoColor=003545&style=for-the-badge" alt="mariadb"/></a>
+<a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/-redis*-white?logo=redis&logoColor=DC382D&style=for-the-badge" alt="redis"/></a>
 
------
-Credits: [abhisheknaiidu](https://github.com/abhisheknaiidu)
+<h3>Testing</h3>
 
-Last Edited on: 30/08/2020
-  7 changes: 6 additions & 1 deletion7  
-amxchang.md
-@@ -10,4 +10,9 @@ For my programming projects, I usually only upload to Github once I make signifi
-- 💬 Ask me about fountain pens.
-- ⚡ Fun fact: My first line of code was not "Hello World!"
+<a href="https://phpunit.de/" target="_blank"><img src="https://img.shields.io/badge/-phpunit-white?logo=php&logoColor=777BB4&style=for-the-badge" alt="phpunit"/></a>
+<a href="https://pestphp.com/" target="_blank"><img src="https://img.shields.io/badge/-pestphp*-white?logo=pestphp&logoColor=C21325&style=for-the-badge" alt="pestphp"/></a>
+<a href="https://jestjs.io/" target="_blank"><img src="https://img.shields.io/badge/-jest*-white?logo=jest&logoColor=C21325&style=for-the-badge" alt="jest"/></a>
 
-[![Ava's Github Stats](https://github-readme-stats.vercel.app/api?username=amxchang)](https://github.com/anuraghazra/github-readme-stats)
-[![Ava's Github Stats](https://github-readme-stats.vercel.app/api?username=amxchang)](https://github.com/anuraghazra/github-readme-stats)
+<h3>Version Control & CI/CD</h3>
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-git-white?logo=git&logoColor=F05032&style=for-the-badge" alt="git"/></a>
+<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/-github-white?logo=github&logoColor=181717&style=for-the-badge" alt="github"/></a>
+<a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/-github_actions*-white?logo=githubactions&logoColor=2088FF&style=for-the-badge" alt="githubactions"/></a>
+<a href="https://gitlab.com/" target="_blank"><img src="https://img.shields.io/badge/-gitlab-white?logo=gitlab&logoColor=FCA121&style=for-the-badge" alt="gitlab"/></a>
+<a href="https://bitbucket.org/" target="_blank"><img src="https://img.shields.io/badge/-bitbucket-white?logo=bitbucket&logoColor=0052CC&style=for-the-badge" alt="bitbucket"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/-docker-white?logo=docker&logoColor=2496ED&style=for-the-badge" alt="docker"/></a>
 
------
-Credits: [amxchang](https://github.com/amxchang)
+<h3>Cloud & Hosting</h3>
 
-Last Edited on: 30/08/2020
-  7 changes: 6 additions & 1 deletion7  
-anmol098.md
-@@ -126,4 +126,9 @@ PHP                      3 repos             ██░░░░░░░░░
+<a href="https://aws.amazon.com" target="_blank"><img src="https://img.shields.io/badge/-amazon_aws-white?logo=amazonaws&logoColor=232F3E&style=for-the-badge" alt="amazonaws"/></a>
+<a href="https://cpanel.net/" target="_blank"><img src="https://img.shields.io/badge/-cpanel-white?logo=cpanel&logoColor=FF6C2C&style=for-the-badge" alt="cpanel"/></a>
+<a href="https://httpd.apache.org/" target="_blank"><img src="https://img.shields.io/badge/-apache-white?logo=apache&logoColor=D22128&style=for-the-badge" alt="apache"/></a>
+<a href="https://www.nginx.com/" target="_blank"><img src="https://img.shields.io/badge/-nginx-white?logo=nginx&logoColor=009639&style=for-the-badge" alt="nginx"/></a>
 
-<!--END_SECTION:waka-->
+<h3>IDE & Tools</h3>
 
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+<a href="https://www.jetbrains.com/phpstorm/" target="_blank"><img src="https://img.shields.io/badge/-phpstorm-white?logo=phpstorm&logoColor=000000&style=for-the-badge" alt="phpstorm"/></a>
+<a href="https://www.sublimetext.com/" target="_blank"><img src="https://img.shields.io/badge/-sublime_text-white?logo=sublimetext&logoColor=FF9800&style=for-the-badge" alt="sublimetext"/></a>
+<a href="https://www.pgadmin.org/" target="_blank"><img src="https://img.shields.io/badge/-pgadmin-white?logo=postgresql&logoColor=4169E1&style=for-the-badge" alt="pgadmin"/></a>
+<a href="https://www.mysql.com/products/workbench/" target="_blank"><img src="https://img.shields.io/badge/-mysql_workbench-white?logo=mysql&logoColor=4479A1&style=for-the-badge" alt="mysql"/></a>
+<a href="https://www.phpmyadmin.net/" target="_blank"><img src="https://img.shields.io/badge/-phpmyadmin-white?logo=phpmyadmin&logoColor=6C78AF&style=for-the-badge" alt="phpmyadmin"/></a>
+<a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/-postman-white?logo=postman&logoColor=FF6C37&style=for-the-badge" alt="postman"/></a>
+<a href="https://filezilla-project.org/filezilla_pro.php" target="_blank"><img src="https://img.shields.io/badge/-filezilla-white?logo=filezilla&logoColor=BF0000&style=for-the-badge" alt="filezilla"/></a>
+<a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://img.shields.io/badge/-windows-white?logo=windows&logoColor=0078D6&style=for-the-badge" alt="windows"/></a>
+<a href="https://github.com/microsoft/terminal" target="_blank"><img src="https://img.shields.io/badge/-windows_terminal-white?logo=windowsterminal&logoColor=4D4D4D&style=for-the-badge" alt="windowsterminal"/></a>
+<a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/-ubuntu-white?logo=ubuntu&logoColor=E95420&style=for-the-badge" alt="ubuntu"/></a>
+<a href="https://trello.com/" target="_blank"><img src="https://img.shields.io/badge/-trello-white?logo=trello&logoColor=0052CC&style=for-the-badge" alt="trello"/></a>
+<a href="https://slack.com/" target="_blank"><img src="https://img.shields.io/badge/-slack-white?logo=slack&logoColor=4A154B&style=for-the-badge" alt="slack"/></a>
+</div>
 
------
-Credits: [anmol098](https://github.com/anmol098)
+<small><strong>*</strong> Studying and improving technology skills.</small>
 
-Last Edited on: 30/08/2020
-  7 changes: 6 additions & 1 deletion7  
-ashbakernz.md
-@@ -34,4 +34,9 @@ class About extends Me
-        return 'To contribute to open source.';
-    }
-}
-```
-```
+---
 
------
-Credits: [ashbakernz](https://github.com/ashbakernz)
+<div align="center">
+<h2 style="margin: 5px 10px;">GitHub Statistics :chart_with_upwards_trend:</h2> 
+<div style="display: flex; align-items: center; justify-content: center;">
 
-Last Edited on: 30/08/2020
-  7 changes: 6 additions & 1 deletion7  
-ashleymavericks.md
-@@ -46,4 +46,9 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+[![](https://github-readme-stats.vercel.app/api?username=garbinmarcelo&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/garbinmarcelo)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=garbinmarcelo&theme=tokyonight&hide_border=true)](https://github.com/garbinmarcelo)
+
 </div>
 </div>
 
------
-Credits: [ashleymavericks](https://github.com/ashleymavericks)
+<div align="center">
 
-Last Edited on: 30/08/2020
-  7 changes: 6 additions & 1 deletion7  
-aveek-saha.md
-@@ -15,4 +15,9 @@ Here are some ideas to get you started:
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
--->
+![](https://komarev.com/ghpvc/?username=garbinmarcelo&style=flat-square)
 
------
-Credits: [aveek-saha](https://github.com/aveek-saha)
-
-Last Edited on: 30/08/2020
-  7 changes: 6 additions & 1 deletion7  
-caneco.md
-@@ -12,4 +12,9 @@
-- 🎙 Currently hosting [Laravel Live Portugal – Season 2](https://www.youtube.com/playlist?list=PLLXPV3-YsvzTSuYYr6EkIQyvbzbvIQjkh)
-- 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
-- 📫 Reach me: [twitter.com/caneco](https://twitter.com/caneco)
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter
-
------
-Credits: [caneco](https://github.com/caneco)
-
-Last Edited on: 30/08/2020
-  7 changes: 6 additions & 1 deletion7  
-coding-ai.md
-@@ -12,4 +12,9 @@ I was born in 🇻🇪, I was raised in 🇪🇸, I live in 🇩🇰, and I work
-  <a href="https://www.youtube.com/channel/UC8FB3UGeHITLOoxb_1F085Q?view_as=subscriber"><img src="https://img.shields.io/badge/YouTube--_.svg?style=social&logo=youtube" alt="YouTube"></a>
-</p>
-
-💪🏼 Support me through Patreon: https://www.patreon.com/aicoding 💪🏼
-💪🏼 Support me through Patreon: https://www.patreon.com/aicoding 💪🏼
-
------
-Credits: [coding-ai](https://github.com/coding-ai)
-
-Last Edited on: 30/08/2020
-  5 changes: 5 additions & 0 deletions5  
-dereknguyen269.md
-@@ -42,3 +42,8 @@
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/vim.png"></code>
-
-[![DEREK's github stats](https://github-readme-stats.vercel.app/api?username=dereknguyen269&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/dereknguyen269)
-
------
-Credits: [dereknguyen269](https://github.com/dereknguyen269)
-
-Last Edited on: 30/08/2020
-  7 changes: 6 additions & 1 deletion7  
-edisonlee55.md
-@@ -32,4 +32,9 @@ Here are some ideas to get you started:
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
--->
-
------
-Credits: [edisonlee55](https://github.com/edisonlee55)
-
-Last Edited on: 30/08/2020
-  7 changes: 6 additions & 1 deletion7  
-emrahsariboz.md
-@@ -2,4 +2,9 @@
-A multipotentialite research assistant who is currently working on Fog Computing and Blockchain scalability at NMSU. Besides them, I have a great interest in Cybersecurity and Machine Learning! I love to use these skills to solve challenging research problems.
+</div>
 
 
-![image](https://media.giphy.com/media/4TtTVTmBoXp8txRU0C/giphy.gif)
-![image](https://media.giphy.com/media/4TtTVTmBoXp8txRU0C/giphy.gif)
+------
 
------
-Credits: [emrahsariboz](https://github.com/emrahsariboz)
+Credit: [garbinmarcelo](https://github.com/garbinmarcelo)
 
-Last Edited on: 30/08/2020
-  7 changes: 6 additions & 1 deletion7  
-gkhan205.md
-@@ -18,4 +18,9 @@ Author of NPM Package: [Formify React](https://www.npmjs.com/package/formify-rea
-- 📫 How to reach me:
-  [Twitter](https://twitter.com/codewithghazi), [Instagram](https://instagram.com/codewithghazi)
-
-![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=gkhan205&show_icons=true&hide_border=true)
-![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=gkhan205&show_icons=true&hide_border=true)
-
------
-Credits: [gkhan205](https://github.com/gkhan205)
-
-Last Edited on: 30/08/2020
-  5 changes: 5 additions & 0 deletions5  
-hrnbot.md
-@@ -36,3 +36,8 @@
-
-<p><a href="https://github.com/hrnbot" target="_blank"><img src="https://github.com/hrnbot/hrnbot/workflows/Progress%20Bar%20CI/badge.svg"/></a></p>
-<p>⏰ Updated on Sat, 29 Aug 2020 18:08:51 GMT</p>
-
------
-Credits: [hrnbot](https://github.com/hrnbot)
-
-Last Edited on: 30/08/2020
-  3 changes: 3 additions & 0 deletions3  
-innng.md
-@@ -21,4 +21,7 @@ Watch anime • Customize my Arch installation • Code • Listen to music •
-[![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](https://resume.io/r/zUDFmwciy)
-[![](https://img.shields.io/badge/-badges-2D4E00?style=flat-square)](https://www.youracclaim.com/users/ingridrosselis/badges)
-
------
-Credits: [innng](https://github.com/innng)
-
-Last Edited on: 30/08/2020
-  5 changes: 5 additions & 0 deletions5  
-jayrajroshan.md
-@@ -13,3 +13,8 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
-- Internet of Things
-- Blockchain
-- Web Development
-
------
-Credits: [jayrajroshan](https://github.com/jayrajroshan)
-
-Last Edited on: 30/08/2020
-  7 changes: 6 additions & 1 deletion7  
-lauragift21.md
-@@ -28,4 +28,9 @@ Here are some ideas to get you started:
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
--->
-
------
-Credits: [lauragift21](https://github.com/lauragift21)
-
-Last Edited on: 30/08/2020
-  7 changes: 6 additions & 1 deletion7  
-martonlederer.md
-@@ -33,4 +33,9 @@ export class Social {
-  spotify: string = 'https://spoti.fi/2ZEq3CN'
-
-}
-```
-```
-
------
-Credits: [martonlederer](https://github.com/martonlederer)
-
-Last Edited on: 30/08/2020
-  7 changes: 6 additions & 1 deletion7  
-matyo91.md
-@@ -30,4 +30,9 @@ Then i recorded my screen to gif on Mac with Quicktime and https://gist.github.c
-
-<p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=matyo91.matyo91" alt="visitor badge"/>
-</p>
-</p>
-
------
-Credits: [matyo91](https://github.com/matyo91)
-
-Last Edited on: 30/08/2020
-  7 changes: 6 additions & 1 deletion7  
-maximousblk.md
-@@ -15,4 +15,9 @@ I'm a Web Developer and occasional UI/UX Designer who loves making high-quality
-
-You can also ask questions on my [Public AMA](https://github.com/maximousblk/maximousblk/issues)
-
-PGP Public Key: [`EC7B EE3B 0561 BF2F`](https://keybase.io/maximousblk/pgp_keys.asc)
-PGP Public Key: [`EC7B EE3B 0561 BF2F`](https://keybase.io/maximousblk/pgp_keys.asc)
-
------
-Credits: [maximousblk](https://github.com/maximousblk)
-
-Last Edited on: 30/08/2020
+Last Edited on: 18/10/2021
