@@ -1,12 +1,11 @@
-@@ -164,8 +164,10 @@
+@@ -62,4 +62,9 @@ Here are some ideas to get you started:
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+-->
 
-</p>
+-----
+Credits: [ABSphreak](https://github.com/ABSphreak)
 
-<hr/>
-
-
-* Credit: [Candida18](https://github.com/Candida18)
-* Last Edited on: 20/07/2021
-
-
-
+Last Edited on: 30/08/2020
